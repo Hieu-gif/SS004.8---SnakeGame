@@ -7,7 +7,7 @@ Dự án là một trò chơi **Snake** dạng console, chạy trên cả Window
 
 ## 1. Thông tin nhóm
 
-- Môn học: **SS004.Q12 – Kỹ năng nghề nghiệp**  
+- Môn học:g**SS004.Q12 – Kỹ năng nghề nghiệp**  
 - Đề tài: **Snake Game**
 - Giảng viên hướng dẫn: Thầy **Nguyễn Văn Toàn**
 
@@ -66,10 +66,11 @@ g++ -std=c++17 main.cpp -o snake
 ```
 ---
 
-### 4.4. Windows – MSVC (Developer Command Prompt)
+### 4.2. Windows – MinGW (g++)
 
 ```bash
-cl /EHsc main.cpp
+g++ -std=c++17 main.cpp -o snake.exe
+snake
 ```
 
 Sau khi build xong, chạy file `main.exe`.
