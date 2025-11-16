@@ -14,8 +14,8 @@ Dự án là một trò chơi **Snake** dạng console, chạy trên cả Window
 | STT | Họ và tên        | MSSV      | Nhiệm vụ chính                  |
 |-----|------------------|-----------|---------------------------------|
 | 1   | Nguyễn Việt Anh                | 24520121         | Vẽ giao diện console và combine code (hàm main)       |
-| 2   | Nguyễn Thị Mỹ Duyên                | 24520408         | Thiết kế logic và code game loop  |
-| 3   | Lê Minh Hiếu                | 24520494         | Xử lý hệ thống, xử lý nhập xuất, test chương trình     |
+| 2   | Nguyễn Thị Mỹ Duyên                | 24520408         | Thiết kế logic, code game loop và viết báo cáo  |
+| 3   | Lê Minh Hiếu                | 24520494         | Xử lý hệ thống, xử lý nhập xuất và test chương trình     |
 
 ---
 
